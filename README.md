@@ -2,18 +2,23 @@
 This Package Developed using beeware library
 
 -   Install
-`
+```bash
 pip install briefcase
-`
+```
 
-
-`briefcase new`
+```bash
+briefcase new
+```
 
 -   Create Bundle
-`briefcase create`
+```bash
+briefcase create
+```
 
 -   Create exe
-    `briefcase build`
+```bash
+    `briefcase build
+```
     -   check 
     `briefcase run`
 
