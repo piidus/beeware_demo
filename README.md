@@ -17,10 +17,10 @@ briefcase create
 
 -   Create exe
 ```bash
-    `briefcase build
+briefcase build
 ```
     -   check 
-    `briefcase run`
+```bash briefcase run```
 
 -   Create Installer
     `briefcase package`
