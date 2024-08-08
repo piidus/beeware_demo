@@ -20,7 +20,8 @@ briefcase create
 briefcase build
 ```
     -   check 
-```bash briefcase run```
+```bash 
+briefcase run```
 
 -   Create Installer
     `briefcase package`
