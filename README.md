@@ -21,18 +21,29 @@ briefcase build
 ```
     -   check 
 ```bash 
-briefcase run```
+briefcase run
+```
 
 -   Create Installer
-    `briefcase package`
+```bash
+briefcase package
+```
 
 -   Create Update
-    `briefcase update`
-    `briefcase run -u`
+```bash
+briefcase update
+```
+```bash
+briefcase run -u
+```
 
 -   For Android
-    `briefcase create android`
-    `briefcase build android`
+```bash
+briefcase create android
+```
+```bash
+briefcase build android
+```
 
     
 
