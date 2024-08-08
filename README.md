@@ -2,8 +2,9 @@
 This Package Developed using beeware library
 
 -   Install
-
-`pip install briefcase`
+`
+pip install briefcase
+`
 
 
 `briefcase new`
