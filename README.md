@@ -19,7 +19,7 @@ briefcase create
 ```bash
 briefcase build
 ```
-    -   check 
+-   check 
 ```bash 
 briefcase run
 ```
@@ -44,7 +44,8 @@ briefcase create android
 ```bash
 briefcase build android
 ```
-
+### Enjoy Beeware
+Thanks
     
 
 
